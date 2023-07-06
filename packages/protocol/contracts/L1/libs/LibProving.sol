@@ -134,10 +134,9 @@ library LibProving {
         } else {
             // This is the branch provers trying to overwrite
             fc = blk.forkChoices[fcId];
-            if (fc.prover != address(0) && fc.prover != address(1)) {
+            if (fc.prover != address(0)) {
                 revert L1_ALREADY_PROVEN();
             }
-
             if (
                 fc.blockHash != evidence.blockHash || fc.signalRoot != evidence.signalRoot
                     || fc.gasUsed != evidence.gasUsed
