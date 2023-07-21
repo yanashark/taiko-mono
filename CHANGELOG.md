@@ -1,5 +1,35 @@
 # Changelog
 
+## [0.17.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.16.0...taiko-mono-v0.17.0) (2023-07-21)
+
+
+### Features
+
+* **bridge-ui-v2:** account balance ([#14159](https://github.com/taikoxyz/taiko-mono/issues/14159)) ([081be64](https://github.com/taikoxyz/taiko-mono/commit/081be64591b48cfa4fb10baf3067cf974476e298))
+* **bridge-ui-v2:** amount input validation ([#14213](https://github.com/taikoxyz/taiko-mono/issues/14213)) ([4b639d7](https://github.com/taikoxyz/taiko-mono/commit/4b639d7a5315c20a6766fb2b59d0ce5d3b973453))
+* **bridge-ui-v2:** Faucet ([#14145](https://github.com/taikoxyz/taiko-mono/issues/14145)) ([b2f2388](https://github.com/taikoxyz/taiko-mono/commit/b2f23889e903ca933dde00bc7f20d88f78bc72a7))
+* **bridge-ui-v2:** Processing Fee ([#14170](https://github.com/taikoxyz/taiko-mono/issues/14170)) ([13ebf1c](https://github.com/taikoxyz/taiko-mono/commit/13ebf1c54f147bfb0ad754abc24271caf97c3775))
+* **website:** add deploy a contract documentation using thirdweb ([#13935](https://github.com/taikoxyz/taiko-mono/issues/13935)) ([4ce016a](https://github.com/taikoxyz/taiko-mono/commit/4ce016a6a2be1ed4bdc2ed8835f427152406321a))
+* **website:** add reset metamask step ([#14229](https://github.com/taikoxyz/taiko-mono/issues/14229)) ([bb77e83](https://github.com/taikoxyz/taiko-mono/commit/bb77e83b1500f596234ece45be65b89dfb8613ea))
+* **website:** docs guide prover withdraw TTKO ([#14133](https://github.com/taikoxyz/taiko-mono/issues/14133)) ([1a136d4](https://github.com/taikoxyz/taiko-mono/commit/1a136d48a733d386482102ca0710f0276f0acbf4))
+* **website:** update blogs ([#14201](https://github.com/taikoxyz/taiko-mono/issues/14201)) ([3ae2597](https://github.com/taikoxyz/taiko-mono/commit/3ae25973f7d1789cba880a2d423c1d1f3b4e049a))
+* **website:** update mxc link ([#14143](https://github.com/taikoxyz/taiko-mono/issues/14143)) ([0bba1e4](https://github.com/taikoxyz/taiko-mono/commit/0bba1e4ba4226849725b3f59baa018f807e3db25))
+* **website:** update wallet setup docs ([#14209](https://github.com/taikoxyz/taiko-mono/issues/14209)) ([57ef8f2](https://github.com/taikoxyz/taiko-mono/commit/57ef8f271b5b248ea8492525731bcaf68367aed4))
+* **website:** update website logo to use svg ([#14142](https://github.com/taikoxyz/taiko-mono/issues/14142)) ([1217fb6](https://github.com/taikoxyz/taiko-mono/commit/1217fb6acb8e0324821f7fac829e55eb88228e98))
+
+
+### Bug Fixes
+
+* **bridge-ui-v2:** processing fee and amount input validation ([#14220](https://github.com/taikoxyz/taiko-mono/issues/14220)) ([61138a8](https://github.com/taikoxyz/taiko-mono/commit/61138a88b529d70df0e81468052971a4fc4fde16))
+* **bridge-ui-v2:** token dropdown click away ([#14224](https://github.com/taikoxyz/taiko-mono/issues/14224)) ([4f879cb](https://github.com/taikoxyz/taiko-mono/commit/4f879cbbbd77f5f82ea150391756cc92879d5848))
+* **docs:** fix links ([#14205](https://github.com/taikoxyz/taiko-mono/issues/14205)) ([a7fd219](https://github.com/taikoxyz/taiko-mono/commit/a7fd219aa7ef320ae4ab2e737e71a48527c6b386))
+* **repo:** fix typos ([#14165](https://github.com/taikoxyz/taiko-mono/issues/14165)) ([020972a](https://github.com/taikoxyz/taiko-mono/commit/020972acd0e71877b5f0d76e6a5319f5a814038e))
+* **website:** broken link ([#14153](https://github.com/taikoxyz/taiko-mono/issues/14153)) ([077b2a1](https://github.com/taikoxyz/taiko-mono/commit/077b2a19607486e5d835adc2a59ab6c662c8c0aa))
+* **website:** fix broken link ([#14200](https://github.com/taikoxyz/taiko-mono/issues/14200)) ([8fddb30](https://github.com/taikoxyz/taiko-mono/commit/8fddb30395ae43e257885d6a4af01dff3e4499db))
+* **website:** fix typo in banner ([#14204](https://github.com/taikoxyz/taiko-mono/issues/14204)) ([64a8766](https://github.com/taikoxyz/taiko-mono/commit/64a8766963088158c884289a494c0bb4f4c1e12a))
+* **website:** make more clear ttko deposit step ([#14228](https://github.com/taikoxyz/taiko-mono/issues/14228)) ([1d7d9b7](https://github.com/taikoxyz/taiko-mono/commit/1d7d9b7a50ff3317ab51105651920df996f07e82))
+* **website:** update bridging docs link ([#14193](https://github.com/taikoxyz/taiko-mono/issues/14193)) ([4bc4038](https://github.com/taikoxyz/taiko-mono/commit/4bc4038d0bd23ceee1955ea4d134968644d428a7))
+
 ## [0.16.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.15.0...taiko-mono-v0.16.0) (2023-07-10)
 
 
